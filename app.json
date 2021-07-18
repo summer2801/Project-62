@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "c60-project-attendance",
+    "slug": "snack-875b5357-a45b-4336-9748-ac0fe293d273",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier":"com.testuser.attendanceapp"
+    },
+    "android": {
+      "package":"com.testuser.attendanceapp" 
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
